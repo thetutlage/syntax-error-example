@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "stack-trace": "0.0.9",
-    "syntax-error": "^1.1.4"
+    "syntax-error": "git://github.com/substack/node-syntax-error.git#add-stack-trace"
   }
 }
